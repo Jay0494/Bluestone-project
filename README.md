@@ -66,7 +66,7 @@ This project was designed to solve these challenges by building a **modern real 
 | Data Transformation | Power Query |
 | Data Modeling       | Star Schema |
 | Data Visualisation  | Power BI    |
-| Analytics           | SQL         |
+| Analytics           | Power BI       |
 
 ---
 
