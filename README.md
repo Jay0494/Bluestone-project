@@ -279,6 +279,8 @@ Real-Estate-Analytics-Project
 ```
 
 ---
+# link to interactive dashboard: 
+https://app.powerbi.com/view?r=eyJrIjoiYjAyYzQ0NWQtNjA5Ni00NzIwLWExOTMtZWYyMjZhN2Q5OGRmIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9
 
 # Key Skills Demonstrated
 
