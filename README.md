@@ -1,6 +1,6 @@
-# 🏠 Real Estate Market Intelligence Dashboard
+# 🏠 Bluestone Real Estate Market Intelligence Analysis
 
-### End-to-End Data Analytics Project | Snowflake • SQL • Power BI
+### End-to-End Data Analytics Project | Snowflake • Power query • Power BI
 
 ## Overview
 
@@ -299,5 +299,3 @@ https://app.powerbi.com/view?r=eyJrIjoiYjAyYzQ0NWQtNjA5Ni00NzIwLWExOTMtZWYyMjZhN
 **Elijah Okpako**
 
 Data Analyst | Business Intelligence | Data-Driven Decision Making
-
-Those three upgrades can **instantly make this portfolio look much more advanced.**
