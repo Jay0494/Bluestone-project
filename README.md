@@ -1,6 +1,7 @@
 # 🏠 Bluestone Real Estate Market Intelligence Analysis
 
-### End-to-End Data Analytics Project | Snowflake • Power query • Power BI
+### End-to-End Data Analytics Project 
+Snowflake • Power query • Power BI
 
 ## Overview
 
