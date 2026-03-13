@@ -73,6 +73,8 @@ This project was designed to solve these challenges by building a **modern real 
 
 # Data Architecture
 <img width="715" height="491" alt="MODEL" src="https://github.com/user-attachments/assets/53b435a4-dc60-4c79-b776-5611ef0fb93d" />
+
+
 The analytics workflow follows a **modern ELT pipeline**.
 
 ```
